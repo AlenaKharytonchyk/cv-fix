@@ -1,6 +1,3 @@
----
-plugins: ["jemoji"]
----
 # **Junior Front End Developer**
 
 ![AlenaKharytonchyk](./img/avatar.jpg)
@@ -24,15 +21,15 @@ I'm a front-end developer who is making first steps in this domain. I'm passiona
 
 What | How
 -----|----
- HTML |:star::star::star::star::star:
- CSS | :star::star::star::star:~~:star:~~
- JS | :star::star::star:~~:star::star:~~
- React | :star::star::star:~~:star::star:~~
- VS Code | :star::star::star::star:~~:star:~~
- Git | :star::star::star:~~:star::star:~~
- MS Excel | :star::star::star::star:~~:star:~~
- MS Powerpoint | :star::star::star::star::star:
-Communication skills | :star::star::star::star::star:
+ HTML | &#9733;&#9733;&#9733;&#9733;&#9733;
+ CSS | &#9733;&#9733;&#9733;&#9733;&#9734;
+ JS | &#9733;&#9733;&#9733;&#9734;&#9734;
+ React | &#9733;&#9733;&#9733;&#9734;&#9734;
+ VS Code | &#9733;&#9733;&#9733;&#9733;&#9734;
+ Git | &#9733;&#9733;&#9733;&#9734;&#9734;
+ MS Excel | &#9733;&#9733;&#9733;&#9733;&#9734;
+ MS Powerpoint | &#9733;&#9733;&#9733;&#9733;&#9733;
+Communication skills | &#9733;&#9733;&#9733;&#9733;&#9733;
 
 ### Code examples:
 
