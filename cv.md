@@ -1,3 +1,7 @@
+---
+plugins:
+    - jemoji
+---
 # **Junior Front End Developer**
 
 ![AlenaKharytonchyk](./img/avatar.jpg)
