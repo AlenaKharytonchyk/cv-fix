@@ -1,6 +1,5 @@
 ---
-plugins:
-    - jemoji
+plugins: ["jemoji"]
 ---
 # **Junior Front End Developer**
 
